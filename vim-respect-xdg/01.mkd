@@ -1,0 +1,13 @@
+name: Tom Vincent
+date: 2011-03-13T17:49:34
+url: http://tlvince.com/
+
+Thanks for the comment.
+
+It's a little convoluted to set up initially and I hadn't found any other "vim
+xdg" guides, so glad to hear it's working for you.
+
+Here's a reference regarding [securemodelines](http://www.jukie.net/bart/blog
+/vim-modelines-insecure). As far as I'm aware, it's still relevant to vim 7.3.
+
+Look forward to sharing some commits!

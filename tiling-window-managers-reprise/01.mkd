@@ -1,0 +1,16 @@
+name: Tom Vincent
+date: 2010-07-17T13:23:29
+url: http://tlvince.com/
+
+You mean vertical scroll-bars? Yes, still, they are predominant in web-
+browsers in this day and age of high-resoultion displays.
+
+I have experimented disabling them; although it does save a bit more screen
+real-estate, its difficult to know how long a page is without them. Maybe
+thats just a matter of habbit; try it out for yourself.
+
+Windows doesnt lend well for un-native window managers, though the best
+solution I have found is (the very dwm-like)
+[HashTWM](http://dockbox.demonastery.org/).
+
+Development on it seems to have restarted, which is always good!

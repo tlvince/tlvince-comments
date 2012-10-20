@@ -1,0 +1,12 @@
+name: Dieter_be
+date: 2011-03-13T12:07:21
+url: http://dieter.plaetinck.be
+
+thanks for this.
+
+another problem with `vim -u` is, it will *only* source the specified vimrc,
+and not first /etc/vimrc followed by the userspecific .vimrc like it would
+normally do.
+
+I'm trying out your git repo and it seems to work fine. very nice colortheme
+also

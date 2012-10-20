@@ -1,0 +1,56 @@
+name: c00kiemon5ter
+date: 2010-12-22T17:01:44
+url: http://c00kiemon5ter.github.com
+
+Well, I've been through Gnome 2.x , KDE 3.x and 4.x and XFCE. I always found
+myself uncomfortable with all the stuff I found running or just being there
+without me knowing that. The whole DE concept felt not right for me.
+
+So I switched to simpler alternatives, where I could have more control on what
+was on my system, how it behaved and what my system did at any moment. Fluxbox
+and Openbox replaced the DEs. Openbox was great, easy configuration,
+comfortable right click menu, many features (growToEdge etc), plenty ideas and
+documentation.
+
+However I always found myself (even when I used DEs) placing windows next to
+each other, non-overlapping and organizing them on groups on different
+desktops.
+
+Since my switch to plain wms , I always had in mind the existence of twms and
+was keen to try those. But then I found pytyle. I stayed with that for a while
+until it started crashing and didnt handle all windows seamlessly. I code so I
+try to keep myself on the keyboard as much as possible, so I dont really like
+bars and panels and decorations. And pytyle didnt like that much.
+
+So having a small experience with pytyle I set to try a true twm. I tried
+wmii, musca and xmonad but came back to Openbox, as I couldnt really figure
+out the configuration(Haskell :S not my thing) and didnt have the time to back
+then(that is I didnt really try) - university requirements. I've had already
+read a lot about twms, reviews, comparisons etc and known the existence of
+suckless and dwm.
+
+So one day I had a free morning and just installed dwm, read the man page,
+logged in and wo! It was all so nicely put, defaults were sane and easy to
+remember, drawing a boarder around the active window was all you needed, the
+configuration was easy, even though in C it was more than easy to figure it
+out, without needing to be a programmer (of-course patching to get more is
+more complicated). It all worked good.
+
+DWM was all I needed, it fit what I imagined as a twm completely and felt
+familiar. I used some patches (pertag, push(totally optional) and
+bstack(havent used it much)) and it's more than enough for me.
+
+Yes, I'm the kind of user with many terminal apps and a big screen so tiling
+fits just right, and dwm feels right to me. I guess some other twm might be
+good too, but I dont think I'll be switching soon.
+
+Comparing floating wms to tiling ones, I think I'd go with tiling most of the
+times. Screen size is really important. A big screen or a small one then it's
+tiling for me (fullscreen on the small one), a medium monitor then it's
+floating (and that's probably openbox).
+
+That's how I'd like apps to take up space, if something is open, there's a
+reason it's open, and as such I should be able to see it.
+
+I dont have much experience with netbooks and as so no experience with
+environments like Unity etc, so I cant speak for that.

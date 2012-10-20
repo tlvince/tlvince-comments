@@ -1,0 +1,6 @@
+name: Luke Wilde
+date: 2011-04-07T19:18:06
+url: http://www.facebook.com/toke.wizard
+
+You can set replies to default automatically to 'reply to all' in the labs I
+think.

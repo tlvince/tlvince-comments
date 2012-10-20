@@ -1,0 +1,13 @@
+name: Kahlos
+date: 2010-07-17T13:21:12
+
+TWMs do seem a logical option. One question I pose to you is that is it
+necessary to have the scroll bars on the desktop environment?
+
+Im increasingly finding that these scroll bars are of no use to me (scroll
+wheel ftw) and that the good 1001080 or so pixels could be used much more
+effectively actually displaying the program.
+
+May I suggest that you create a starter pack for TWM noobs. If you could find
+windows alternatives that would also be a big step forward for seeding this
+far better method of desktop usage.

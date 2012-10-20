@@ -1,0 +1,14 @@
+name: Tom Vincent
+date: 2010-12-22T16:15:43
+url: http://tlvince.com/
+
+I've been using xmonad for the past year and in hindsight, my original points
+still hold. However, I've grown to appreciate the terminal and just how much
+can be done without ever touching a GUI.
+
+I covered a few replies in a [follow-up
+post](http://tlvince.com/tiling-window-managers-reprise/) which outlines some
+thoughts during the "transition period".
+
+Out of interest, how did you reach the decision to use dwm? It's interesting
+to hear other peoples "journeys" into the twm land.

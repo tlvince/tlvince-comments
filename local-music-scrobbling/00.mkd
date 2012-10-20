@@ -1,0 +1,12 @@
+name: Guest
+date: 2011-01-31T17:47:31
+
+Display Artist Chart
+
+    cut -f2- -d ' ' ~/.cache/mpd/plays.log | cut -f1 -d '-' | sort | uniq -c | sort -r
+
+Display Track Chart
+
+    cut -f2- -d ' ' ~/.cache/mpd/plays.log | cut -f2 -d '-' | sort | uniq -c | sort -r
+
+Attach ` | head -n 10` to limit it to the top ten.

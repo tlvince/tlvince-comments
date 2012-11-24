@@ -4,10 +4,8 @@ url: http://c00kiemon5ter.github.com
 
 gah, so true. I like tiling wms, I use dwm myself and I love it, but what
 you're arguing here is understandable. Yes I have a big screen (24") and that
-means I have all the space to tile
-
-windows. I wouldnt even try tiling on a screen <20" unless if I used a full
-screen layout.
+means I have all the space to tile windows. I wouldnt even try tiling on a
+screen <20" unless if I used a full screen layout.
 
 Good thing with tilers is that you get a floating mode too so you kindof have
 both in one.

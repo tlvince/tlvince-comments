@@ -1,6 +1,7 @@
 name: Tom Vincent
 date: 2010-12-22T16:15:43
 url: http://tlvince.com/
+reply: true
 
 I've been using xmonad for the past year and in hindsight, my original points
 still hold. However, I've grown to appreciate the terminal and just how much

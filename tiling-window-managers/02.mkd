@@ -1,6 +1,7 @@
 name: c00kiemon5ter
 date: 2010-12-22T17:01:44
 url: http://c00kiemon5ter.github.com
+reply: true
 
 Well, I've been through Gnome 2.x , KDE 3.x and 4.x and XFCE. I always found
 myself uncomfortable with all the stuff I found running or just being there

@@ -1,5 +1,7 @@
+```metadata
 name: Kahlos
 date: 2010-07-17T13:21:12
+```
 
 TWMs do seem a logical option. One question I pose to you is that is it
 necessary to have the scroll bars on the desktop environment?

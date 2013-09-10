@@ -1,7 +1,9 @@
+```metadata
 name: Tom Vincent
 date: 2010-12-10T16:16:24
 url: http://tlvince.com/
 reply: true
+```
 
 I stayed near "San Andreas" street (great market); it certainly felt a lot
 like playing GTA!

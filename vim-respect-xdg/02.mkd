@@ -1,5 +1,7 @@
+```metadata
 name: Arsene Rei
 date: 2011-08-16T17:52:58
+```
 
 This is brilliant. I think you wrote it right after I found about the Base
 Specification because I couldn't find anything at the time. :p

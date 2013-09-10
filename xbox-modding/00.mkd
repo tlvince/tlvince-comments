@@ -1,5 +1,7 @@
+```metadata
 name: John Spruce
 date: 2007-08-08T15:55:18
+```
 
 So what was all this about TL? Do you enjoy working stuff out? How did you get
 introduced to the world of technical computer manipulation? And would you be

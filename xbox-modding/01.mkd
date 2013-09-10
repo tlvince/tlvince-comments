@@ -1,6 +1,8 @@
+```metadata
 name: Flamingo Twist
 date: 2008-09-14T17:58:40
 url: http://www.myspace.com/thelineupuk
+```
 
 TL TL TL, i never knew. so what did u end up with in the end? a quieter xbox
 which ran linux? tech. dunno if u heard about the autumn xbox update. they're

@@ -1,7 +1,9 @@
+```metadata
 name: Tom Vincent
 date: 2011-03-13T17:49:34
 url: http://tlvince.com/
 reply: true
+```
 
 Thanks for the comment.
 
